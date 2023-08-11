@@ -1,0 +1,10 @@
+{
+    "name": "Summer Eyes",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Extension to summarize text on the web",
+    "action": {
+        "default_icon": "currency_converter.png",
+        "default_popup": "index.html"
+    }
+}
